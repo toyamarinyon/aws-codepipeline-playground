@@ -1,6 +1,6 @@
 class HelloWorld
   def say_hello()
-    return 'Hello, world!'
+    return 'Hello, new world!'
   end
 end
 
