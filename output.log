@@ -1,0 +1,9 @@
+
+HelloWorld
+  When testing the HelloWorld class
+Succeed
+    The say_hello method should return 'Hello World!!! multiple-!!'
+
+Finished in 0.00154 seconds (files took 0.27611 seconds to load)
+1 example, 0 failures
+
